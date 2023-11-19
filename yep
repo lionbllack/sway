@@ -1,0 +1,14 @@
+Stopped at 5d025d1... formatting
+You can amend the commit now, with
+
+
+
+ git commit --amend
+
+
+
+Once you are satisfied with your changes, run
+
+
+
+ git rebase --continue
